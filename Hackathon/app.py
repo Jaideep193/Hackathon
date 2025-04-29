@@ -10,7 +10,7 @@ import PIL.Image
 
 # ---------- API Setup ----------
 
-API_KEY = "AIzaSyBNh5wWTTShQ13uA_rJyGj0VNHZnHOMQuQ"  
+API_KEY = "YOUR_API_KEY"  
 MODEL_ID = "gemini-2.0-flash-001"
 
 
