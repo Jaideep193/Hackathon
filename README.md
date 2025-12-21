@@ -1,3 +1,4 @@
+
 # ⚡ AI Chatbot - Gemini 2.0 Flash (Streamlit App)
 
 This project is a full **multimodal AI chatbot** built using **Streamlit** and **Google Gemini 2.0 Flash API**.  
