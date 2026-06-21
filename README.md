@@ -25,3 +25,19 @@ It allows you to interact with text, PDFs, images, audio, and video files throug
 
 ---
 
+📁 Project Structure
+
+```
+Hackathon/
+├── Hackathon/
+│   └── app.py          ← Main Streamlit application (run this file)
+└── README.md
+```
+
+## 🚀 Run Locally
+
+```bash
+git clone https://github.com/Jaideep193/Hackathon.git
+cd Hackathon/Hackathon
+streamlit run app.py
+```
